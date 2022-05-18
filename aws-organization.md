@@ -1,10 +1,14 @@
 
 ## AWS ORGANIZATION
 
-* Using AWS organization to manage account, proper admininstration, consolidated billing, service control policy 
+AWS Organizations helps you centrally manage and govern your environment as you grow and scale your AWS resources. Using AWS Organizations, you can create accounts and allocate resources, group accounts to organize your workflows, apply policies for governance, and simplify billing by using a single payment method for all of your accounts.
+
+# AWS Organizations includes
 
 * Manangement or master account
 * Memmber accounts 
+
+# Steps invoved in creating an AWS Organization
 
 * The management account creates the organization.
 
