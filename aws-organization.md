@@ -63,5 +63,26 @@ AWS Organizations helps you centrally manage and govern your environment as you 
 
 
 
+## HIERACCHY STRUCTURE
+
+This enable to create the OU(Organizational Unit) within the root container of the organization. Members account can be grouped into the OU
+
+* In the AWS Organization Dashboard (Master Account), tick the root as specified , then click *actions*
+
+![image](https://user-images.githubusercontent.com/71001536/169041262-1e625fcb-ceb4-4b52-a9fb-f20fbd471c4e.png)
+
+![image](https://user-images.githubusercontent.com/71001536/169041632-bc83bf7e-c024-43bf-a028-c80af470a576.png)
+
+* Click the member account , then click on actions to move 
+
+![image](https://user-images.githubusercontent.com/71001536/169042246-e0a65002-3309-4d3e-9433-67382af740c3.png)
+
+![image](https://user-images.githubusercontent.com/71001536/169042565-76b1e846-7835-42f1-9c46-c6f57ccbd8d1.png)
+
+
+
+
+
+
 
 
