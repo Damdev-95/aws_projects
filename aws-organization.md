@@ -79,6 +79,7 @@ This enable to create the OU(Organizational Unit) within the root container of t
 
 ![image](https://user-images.githubusercontent.com/71001536/169042565-76b1e846-7835-42f1-9c46-c6f57ccbd8d1.png)
 
+![image](https://user-images.githubusercontent.com/71001536/169050610-d53d733f-0056-4881-99ff-d80d968f324f.png)
 
 
 
