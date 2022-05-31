@@ -39,4 +39,12 @@ JSON Policy for IAMRole for the CloudTrail to access CloudWatch logs
   ]
 }
 ```
+![image](https://user-images.githubusercontent.com/71001536/171135808-7cd752c4-fc99-4a21-8cef-05f48031a65b.png)
+
+![image](https://user-images.githubusercontent.com/71001536/171136312-6ea56f5d-533d-4780-9af0-1ede69b792e1.png)
+
+![image](https://user-images.githubusercontent.com/71001536/171136644-f31ff92a-854b-4d22-8c88-1b5fc7fdae2a.png)
+
+![image](https://user-images.githubusercontent.com/71001536/171144161-3fc7ad53-f41c-4043-8d20-b927719dc5aa.png)
+
 
